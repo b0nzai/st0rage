@@ -1,0 +1,6 @@
+AuthUserFile C:\xampp\htdocs\bookmarks\lib\secret\.htpassword
+AuthName "name of login prompt"
+AuthType Basic
+<files file.b0>
+require valid-user
+</files>
